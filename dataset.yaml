@@ -1,0 +1,5 @@
+train: D:/Proyectos/yolov5/modelo/dataset/images/train
+val: D:/Proyectos/yolov5/modelo/dataset/images/val
+
+nc: 1
+names: ['etiquetas']
